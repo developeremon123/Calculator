@@ -1,2 +1,2 @@
 # Calculator
-Calculator made using html css bootstrap
+Calculator made using html css
