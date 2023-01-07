@@ -1,2 +1,2 @@
-# mist
-mistwebsite made using html css bootstrap
+# Calculator
+Calculator made using html css bootstrap
